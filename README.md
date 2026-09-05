@@ -8,6 +8,7 @@ Interactive seasonal cookbook from the booklet sold at **Caffetteria Mazzetti**,
 
 **Live site:** https://dnzengou.github.io/ricette-mazzetti/
 
-**Source:** https://github.com/dnzengou/ricette-mazzetti
+**Source repo:** https://github.com/dnzengou/ricette-mazzetti  
+**Pages repo:** https://github.com/dnzengou/dnzengou.github.io
 
 Open `index.html` locally if you prefer.
